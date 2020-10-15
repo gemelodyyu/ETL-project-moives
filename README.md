@@ -9,6 +9,9 @@
 The datasets used for this project came from two separate Kaggle databases, both relating to movies. The first was “The Movies Dataset”, which contained csv files with information about 45,000 movies, including the metadata (i.e. title, budget, revenue, release dates, etc.), ratings, and credits. The second was “The Oscar Award, 1927-2020”, which contained a csv file with Oscar winners, awards, and film titles for the years 1927-2020.
 
 
+[Link to the Data](https://drive.google.com/drive/folders/13YoIEQx73OkosSL4tSw-acE3znfcDuON?usp=sharing)
+
+
 ### Transformation
 
 
