@@ -1,4 +1,4 @@
-# ETL Project -- Movies! 
+# ETL Project - Movies! 
 
 
 ## Technical Report Summary
